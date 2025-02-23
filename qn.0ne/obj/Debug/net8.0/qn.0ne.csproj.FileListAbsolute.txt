@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\bin\Debug\net8.0\qn.0ne.exe
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\bin\Debug\net8.0\qn.0ne.deps.json
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\bin\Debug\net8.0\qn.0ne.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\bin\Debug\net8.0\qn.0ne.dll
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\bin\Debug\net8.0\qn.0ne.pdb
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.dll
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\refint\qn.0ne.dll
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.pdb
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\qn.0ne.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\.net programs\qn.0ne\obj\Debug\net8.0\ref\qn.0ne.dll
